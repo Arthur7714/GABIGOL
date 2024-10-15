@@ -20,4 +20,5 @@ header {
 .nav-item:hover{
     cursor: pointer;
     background-color: white;
+    color: brown;
 }
